@@ -1,4 +1,4 @@
-from .tests.python.main import hello_world
+from ...main import hello_world
 
 
 def test_default_greeting():
