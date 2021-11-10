@@ -1,4 +1,5 @@
 from ... import main
+from main import hello_world
 
 
 def test_default_greeting():
